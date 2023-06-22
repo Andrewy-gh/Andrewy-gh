@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Full Stack Developer based in the United States</h3>
 
-- 🔭 I’m currently working on [Cut Above Barbershop](https://github.com/Andy-git985/cut-above-barbershop)
+- 🔭 I’m currently working on [Takashi Photography Portfolio](https://github.com/Andy-git985/takashi-portfolio)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Tailwind, GraphQL**
 
