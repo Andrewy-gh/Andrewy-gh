@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Full Stack Developer based in the United States</h3>
 
-- 🔭 I’m currently working on [Spruce Street]([https://spruce-street.netlify.app])
+- 🔭 I’m currently working on [Spruce Street](https://spruce-street.netlify.app)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Tailwind, GraphQL**
 
